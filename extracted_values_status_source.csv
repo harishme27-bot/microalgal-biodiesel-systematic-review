@@ -1,0 +1,151 @@
+Study,Author,Variable,Value,Unit,Status,Basis,Ester,Source
+R0028,Pradhan G. (2024),Yield / conversion,98.4,1H NMR conversion,reported,C1,FAME,p. 1
+R0028,Pradhan G. (2024),Density,913.0,kg/m3,measured,,FAME,p. 5 (Table; g/cm3 at 40 °C)
+R0028,Pradhan G. (2024),Kinematic viscosity (40 °C),5.52,mm2/s,measured,,FAME,p. 5
+R0028,Pradhan G. (2024),Cetane number,48.0,–,measured,,FAME,p. 5
+R0028,Pradhan G. (2024),Flash point,142.0,°C,measured,,FAME,p. 5
+R0028,Pradhan G. (2024),Acid value,0.81,mg KOH/g,measured,,FAME,p. 5
+R0028,Pradhan G. (2024),Higher heating value,37.82,MJ/kg,measured,,FAME,p. 5
+R0028,Pradhan G. (2024),Cloud point,7.0,°C,measured,,FAME,p. 1
+R0028,Pradhan G. (2024),Pour point,4.0,°C,measured,,FAME,p. 1
+R0028,Pradhan G. (2024),Final-cycle reuse value,77.64,%,reported,conversion; 6 cycles,FAME,p. 7
+R0028,Pradhan G. (2024),Activation energy of conversion,36.48,kJ/mol,fitted,,FAME,p. 1
+R0052,Musavi S.A. (2025),Yield / conversion,99.12,isolated mass on oil,reported,C2,FAME,p. 1
+R0052,Musavi S.A. (2025),Density,874.0,kg/m3,measured,,FAME,p. 15
+R0052,Musavi S.A. (2025),Kinematic viscosity (40 °C),3.75,mm2/s,measured,,FAME,p. 15
+R0052,Musavi S.A. (2025),Cetane number,55.23,–,calculated,,FAME,p. 15
+R0052,Musavi S.A. (2025),Flash point,143.0,°C,measured,,FAME,p. 15
+R0052,Musavi S.A. (2025),Acid value,0.32,mg KOH/g,measured,,FAME,p. 15
+R0052,Musavi S.A. (2025),Cloud point,-4.3,°C,measured,,FAME,p. 16 (Table)
+R0052,Musavi S.A. (2025),Final-cycle reuse value,90.0,%,reported,mass yield; 6 cycles,FAME,p. 1
+R0058,Van Minh N. (2025),Yield / conversion,84.7,isolated mass on oil,reported,C2,FAME,p. 1
+R0058,Van Minh N. (2025),Density,884.0,kg/m3,measured,,FAME,p. 9
+R0058,Van Minh N. (2025),Kinematic viscosity (40 °C),4.3,mm2/s,measured,,FAME,p. 9
+R0058,Van Minh N. (2025),Cetane number,54.0,–,measured,,FAME,p. 9
+R0058,Van Minh N. (2025),Flash point,122.0,°C,measured,,FAME,p. 9
+R0058,Van Minh N. (2025),Oxidation stability (Rancimat),3.8,h,measured,,FAME,p. 9
+R0058,Van Minh N. (2025),Final-cycle reuse value,81.9,%,reported,mass yield; 5 cycles,FAME,p. 8
+R0095,Shen Y. (2023),Yield / conversion,98.51,GC conversion,reported,C1,FAME,p. 1
+R0095,Shen Y. (2023),Density,865.0,kg/m3,measured,,FAME,p. 12 (Table; g/cm3)
+R0095,Shen Y. (2023),Higher heating value,37.25,MJ/kg,calculated,,FAME,p. 12
+R0095,Shen Y. (2023),Final-cycle reuse value,85.5,%,reported,average over cycles; 5 cycles,FAME,p. 1
+R0157,Mandik Y.I. (2026),Yield / conversion,257.0,kg FAME per t dry biomass,reported,C4,FAME,p. 1
+R0278,Huang J. (2023),Yield / conversion,96.8,1H NMR conversion,reported,C1,FAME,p. 1
+R0278,Huang J. (2023),Final-cycle reuse value,90.0,%,reported,conversion (>90); 6 cycles,FAME,p. 8
+R0330,Javed F. (2023),Yield / conversion,92.0,GC conversion,reported,C1,FAME,p. 1
+R0330,Javed F. (2023),Final-cycle reuse value,63.0,%,reported,conversion; 7 cycles,FAME,p. 9
+R0330,Javed F. (2023),Activation energy of conversion,7.9,kJ/mol,fitted,,FAME,p. 1
+R0345,Balaraman H. (2023),Yield / conversion,90.8,ester content (w/w),reported,C3,FAME,p. 1
+R0345,Balaraman H. (2023),Density,870.0,kg/m3,measured,,FAME,p. 1
+R0345,Balaraman H. (2023),Kinematic viscosity (40 °C),4.24,mm2/s,measured,,FAME,p. 1
+R0345,Balaraman H. (2023),Acid value,0.31,mg KOH/g,measured,,FAME,p. 1
+R0345,Balaraman H. (2023),Iodine value,62.0,g I2/100 g,measured,,FAME,p. 1
+R0345,Balaraman H. (2023),Activation energy of conversion,28.3,kJ/mol,fitted,,FAME,"p. 1, p. 10"
+R0401,Ha G.-S. (2026),Yield / conversion,0.9,g biodiesel per g lipid (GC-FID with internal standard),reported,C2,FAME,p. 6 (Table 4); p. 7
+R0401,Ha G.-S. (2026),Cetane number,66.5,–,calculated,,FAME,p. 8
+R0522,Qu S. (2021),Yield / conversion,95.8,GC-IS conversion,reported,C1,FAEE,p. 1
+R0522,Qu S. (2021),Density,860.0,kg/m3,measured,,FAEE,p. 12
+R0522,Qu S. (2021),Kinematic viscosity (40 °C),4.3,mm2/s,measured,,FAEE,p. 12
+R0522,Qu S. (2021),Cetane number,58.3,–,measured,,FAEE,p. 12
+R0522,Qu S. (2021),Flash point,135.2,°C,measured,,FAEE,p. 12
+R0522,Qu S. (2021),Higher heating value,41.7,MJ/kg,measured,,FAEE,p. 12
+R0522,Qu S. (2021),Final-cycle reuse value,82.5,%,reported,conversion (80–85); 6 cycles,FAEE,p. 9 (Fig. 11)
+R0522,Qu S. (2021),Activation energy of conversion,35.35,kJ/mol,fitted,,FAEE,p. 11
+R0534,Roy M. (2021),Yield / conversion,94.23,isolated mass on oil,reported,C2,FAME,p. 1
+R0534,Roy M. (2021),Cetane number,69.55,–,calculated,,FAME,p. 9
+R0534,Roy M. (2021),Final-cycle reuse value,90.0,%,reported,mass yield (>90); 4 cycles,FAME,p. 1
+R0549,Ashokkumar V. (2019),Yield / conversion,94.1,isolated mass on lipid (0.29 g/g biomass),reported,C2,FAME,p. 1
+R0549,Ashokkumar V. (2019),Activation energy of conversion,45.39,kJ/mol,fitted,,FAME,p. 6 (Table 4)
+R0680,Singh R. (2020),Yield / conversion,97.88,1H NMR conversion,reported,C1,FAME,p. 1
+R0680,Singh R. (2020),Density,828.0,kg/m3,measured,,FAME,p. 10 (Table; g/cm3 at 15 °C)
+R0680,Singh R. (2020),Kinematic viscosity (40 °C),5.45,mm2/s,measured,,FAME,p. 9
+R0680,Singh R. (2020),Cetane number,49.56,–,measured,,FAME,p. 9
+R0680,Singh R. (2020),Flash point,148.0,°C,measured,,FAME,p. 9
+R0680,Singh R. (2020),Acid value,0.48,mg KOH/g,measured,,FAME,p. 9
+R0680,Singh R. (2020),Higher heating value,48.5,MJ/kg,measured,,FAME,p. 9
+R0680,Singh R. (2020),Final-cycle reuse value,76.3,%,reported,conversion; 6 cycles,FAME,p. 9
+R0736,Huang R. (2021),Yield / conversion,94.6,ester content of distilled cut (cut yield 57.97 %),reported,C3,FAME,p. 1
+R0736,Huang R. (2021),Density,864.0,kg/m3,measured,,FAME,p. 6
+R0736,Huang R. (2021),Kinematic viscosity (40 °C),3.54,mm2/s,measured,,FAME,p. 6
+R0736,Huang R. (2021),Cetane number,54.7,–,measured,,FAME,p. 6
+R0736,Huang R. (2021),CFPP,5.0,°C,measured,,FAME,p. 1
+R0748,Singh R. (2019),Yield / conversion,98.94,"conversion, method not reported (abstract)",reported,C1,FAME,abstract
+R0748,Singh R. (2019),Final-cycle reuse value,69.56,%,reported,conversion; 6 cycles,FAME,abstract
+R0748,Singh R. (2019),Activation energy of conversion,48.02,kJ/mol,fitted,,FAME,abstract
+R0758,Ashokkumar V. (2019),Yield / conversion,90.5,isolated methyl ester mass on crude lipid,reported,C2,FAME,"p. 1, p. 7"
+R0758,Ashokkumar V. (2019),Density,851.0,kg/m3,measured,,FAME,p. 8
+R0758,Ashokkumar V. (2019),Kinematic viscosity (40 °C),5.4,mm2/s,measured,,FAME,p. 8
+R0758,Ashokkumar V. (2019),Cetane number,52.5,–,measured,,FAME,p. 8
+R0758,Ashokkumar V. (2019),Flash point,130.0,°C,measured,,FAME,p. 8
+R0758,Ashokkumar V. (2019),Acid value,0.5,mg KOH/g,measured,,FAME,p. 8 (Table 5)
+R0758,Ashokkumar V. (2019),Higher heating value,39.2,MJ/kg,measured,,FAME,p. 8
+R0758,Ashokkumar V. (2019),Iodine value,88.5,g I2/100 g,measured,,FAME,p. 8
+R0758,Ashokkumar V. (2019),Pour point,-19.0,°C,measured,,FAME,p. 8
+R0784,Ahmad S. (2020),Yield / conversion,93.44,isolated mass on oil,reported,C2,FAME,p. 1
+R0784,Ahmad S. (2020),Density,850.0,kg/m3,measured,,FAME,"p. 1, p. 10 (g/cm3)"
+R0784,Ahmad S. (2020),Kinematic viscosity (40 °C),1.33,mm2/s,measured,,FAME,p. 10
+R0784,Ahmad S. (2020),Cetane number,32.29,–,reported (status unclear),,FAME,p. 1
+R0784,Ahmad S. (2020),Flash point,92.0,°C,measured,,FAME,p. 7
+R0784,Ahmad S. (2020),Acid value,0.83,mg KOH/g,measured,,FAME,p. 1
+R0784,Ahmad S. (2020),Oxidation stability (Rancimat),0.83,h,measured,,FAME,p. 1
+R0784,Ahmad S. (2020),Higher heating value,38.03,MJ/kg,measured,,FAME,p. 1
+R0784,Ahmad S. (2020),Iodine value,204.14,g I2/100 g,measured,,FAME,p. 1
+R0784,Ahmad S. (2020),Cloud point,-4.5,°C,measured,,FAME,p. 1
+R0784,Ahmad S. (2020),Pour point,5.4,°C,measured,,FAME,p. 1
+R0784,Ahmad S. (2020),Final-cycle reuse value,73.0,%,reported,mass yield; 6 cycles,FAME,p. 5
+R0793,Qu S. (2020),Yield / conversion,92.1,GC-IS conversion,reported,C1,FAEE,p. 1
+R0793,Qu S. (2020),Density,861.0,kg/m3,measured,,FAEE,p. 10
+R0793,Qu S. (2020),Kinematic viscosity (40 °C),4.7,mm2/s,measured,,FAEE,p. 10
+R0793,Qu S. (2020),Cetane number,58.3,–,measured,,FAEE,p. 10
+R0793,Qu S. (2020),Flash point,130.2,°C,measured,,FAEE,p. 10
+R0793,Qu S. (2020),Final-cycle reuse value,85.0,%,reported,conversion (>85); 5 cycles,FAEE,p. 1
+R0793,Qu S. (2020),Activation energy of conversion,49.67,kJ/mol,fitted,,FAEE,p. 1
+R0816,Arunachalam Sivagurulingam A.P. (2019),Yield / conversion,94.83,isolated mass on oil,reported,C2,FAME,p. 2
+R0816,Arunachalam Sivagurulingam A.P. (2019),Density,861.0,kg/m3,measured,,FAME,p. 9
+R0816,Arunachalam Sivagurulingam A.P. (2019),Kinematic viscosity (40 °C),4.48,mm2/s,measured,,FAME,p. 9 (Table)
+R0816,Arunachalam Sivagurulingam A.P. (2019),Flash point,169.0,°C,measured,,FAME,p. 9
+R0816,Arunachalam Sivagurulingam A.P. (2019),Acid value,0.32,mg KOH/g,measured,,FAME,p. 9
+R0816,Arunachalam Sivagurulingam A.P. (2019),Final-cycle reuse value,90.06,%,reported,mass yield; 5 cycles,FAME,p. 8
+R0816,Arunachalam Sivagurulingam A.P. (2019),Activation energy of conversion,99.33,kJ/mol,fitted,,FAME,p. 2
+R0836,Ha G.-S. (2021),Yield / conversion,0.9,g biodiesel per g lipid,reported,C2,FAME,p. 8
+R0874,Ha G.-S. (2020),Yield / conversion,0.74,g biodiesel per g lipid,reported,C2,FAME,p. 1
+R0925,Banerjee S. (2019),Yield / conversion,86.0,isolated mass on oil,reported,C2,FAME,p. 1
+R0925,Banerjee S. (2019),Density,882.0,kg/m3,measured,,FAME,p. 8
+R0925,Banerjee S. (2019),Kinematic viscosity (40 °C),4.7,mm2/s,measured,,FAME,p. 8
+R0925,Banerjee S. (2019),Cetane number,53.0,–,measured,,FAME,p. 8
+R0925,Banerjee S. (2019),Flash point,120.0,°C,measured,,FAME,p. 8
+R0925,Banerjee S. (2019),Acid value,0.6,mg KOH/g,measured,,FAME,p. 8
+R0925,Banerjee S. (2019),Iodine value,80.0,g I2/100 g,measured,,FAME,p. 2
+R0925,Banerjee S. (2019),Pour point,-18.0,°C,measured,,FAME,p. 8
+R1264,Viêgas C.V. (2015),Yield / conversion,97.0,GC conversion,reported,C1,FAME,p. 6
+R1264,Viêgas C.V. (2015),Density,879.7,kg/m3,measured,,FAME,p. 8
+R1264,Viêgas C.V. (2015),Kinematic viscosity (40 °C),4.07,mm2/s,measured,,FAME,p. 8
+R1264,Viêgas C.V. (2015),Oxidation stability (Rancimat),1.3,h,measured,,FAME,p. 8
+R1338,Guldhe A. (2017),Yield / conversion,94.58,GC conversion,reported,C1,FAME,p. 1
+R1338,Guldhe A. (2017),Cetane number,52.67,–,calculated,,FAME,p. 7
+R1338,Guldhe A. (2017),Acid value,0.46,mg KOH/g,measured,,FAME,p. 7
+R1338,Guldhe A. (2017),Higher heating value,38.44,MJ/kg,measured,,FAME,p. 7
+R1338,Guldhe A. (2017),Final-cycle reuse value,72.94,%,reported,conversion; 6 cycles,FAME,p. 7
+R1363,Dong T. (2015),Yield / conversion,99.0,GC conversion,reported,C1,FAME,p. 1
+R1363,Dong T. (2015),Cetane number,60.7,–,calculated,,FAME,p. 7
+R1363,Dong T. (2015),Final-cycle reuse value,97.13,%,reported,conversion (refined oil; 10 cycles claimed); 3 cycles,FAME,p. 4
+R1363,Dong T. (2015),Activation energy of conversion,42.16,kJ/mol,fitted,,FAME,p. 1
+R1386,Teo S.H. (2016),Yield / conversion,99.0,GC-IS conversion,reported,C1,FAME,p. 1
+R1386,Teo S.H. (2016),Final-cycle reuse value,96.0,%,reported,conversion; 5 cycles,FAME,p. 1
+R1386,Teo S.H. (2016),Activation energy of conversion,58.62,kJ/mol,fitted,,FAME,p. 1
+R1483,Ashokkumar V. (2015),Yield / conversion,0.21,g biodiesel per g dry biomass,reported,C4,FAME,p. 1
+R1483,Ashokkumar V. (2015),Density,812.0,kg/m3,measured,,FAME,p. 6
+R1483,Ashokkumar V. (2015),Kinematic viscosity (40 °C),4.71,mm2/s,measured,,FAME,p. 6
+R1483,Ashokkumar V. (2015),Cetane number,58.2,–,measured,,FAME,p. 6
+R1483,Ashokkumar V. (2015),Flash point,151.0,°C,measured,,FAME,p. 6
+R1483,Ashokkumar V. (2015),Acid value,0.52,mg KOH/g,measured,,FAME,p. 6
+R1483,Ashokkumar V. (2015),Pour point,16.0,°C,measured,,FAME,p. 1
+R1548,Reddy H.K. (2014),Yield / conversion,67.0,GC-IS conversion (supercritical ethanol),reported,C1,FAEE,p. 1
+R1548,Reddy H.K. (2014),Higher heating value,43.0,MJ/kg,measured,,FAEE,p. 1
+R1707,Hong D.D. (2013),Yield / conversion,88.0,"% on oil, method not stated (44 % on biomass)",reported,NS,FAME,p. 1
+R1707,Hong D.D. (2013),Kinematic viscosity (40 °C),5.22,mm2/s,measured,,FAME,p. 4
+R1707,Hong D.D. (2013),Cetane number,68.8,–,measured,,FAME,p. 4 (Table)
+R1707,Hong D.D. (2013),Flash point,186.5,°C,measured,,FAME,p. 4 (Table)
+R1707,Hong D.D. (2013),Oxidation stability (Rancimat),0.05,h,measured,,FAME,p. 4
+R1707,Hong D.D. (2013),Iodine value,46.1,g I2/100 g,measured,,FAME,p. 4 (Table)
+R1707,Hong D.D. (2013),Cloud point,19.1,°C,measured,,FAME,p. 4 (Table)

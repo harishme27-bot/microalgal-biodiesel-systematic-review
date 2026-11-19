@@ -1,0 +1,36 @@
+rid,src,why,stage
+R0007,FT,Amendment 2 at full assessment: Properties estimated by correlation; reuse not quantified,v2
+R0060,FT,Amendment 2 at full assessment: Properties calculated; only R met,v2
+R0536,FT,Amendment 2 at full assessment: CN and OSI calculated; only T met,v2
+R0555,FT,Amendment 2 at full assessment: Reuse reported as relative activity without cycle values; enzyme Km is not conversion kinetics,v2
+R0810,FT,Amendment 2 at full assessment: Only P met; glycerol quantified but not valorised,v2
+R0951,FT,Amendment 2 at full assessment: Only P met; solar heat input not quantified,v2
+R0975,FT,Amendment 2 at full assessment: Reuse not shown for algal oil; only P met,v2
+R1034,FT,Amendment 2 at full assessment: Only P met; kinetics without parameters,v2
+R1058,FT,Amendment 2 at full assessment: Only T met; CN calculated,v2
+R1256,FT,"Amendment 2 at full assessment: Recycling of coagulant, not conversion catalyst; no second dimension",v2
+R1443,FT,Amendment 2 at full assessment: Only T met,v2
+R1451,FT,Amendment 2 at full assessment: Only P met; reuse qualitative,v2
+R1586,FT,Amendment 2 at full assessment: Only T met,v2
+R1638,FT,Amendment 2 at full assessment: Only T met,v2
+R1807,FT,Amendment 2 at full assessment: Only T met,v2
+R0082,ABS,Amendment 2 at full assessment: Only R met; Ea value not given in abstract,v2
+R0114,ABS,Amendment 2 at full assessment: Only R met; standard compliance claimed without values,v2
+R0133,ABS,Amendment 2 at full assessment: Only R met; kinetic parameters not given,v2
+R0392,ABS,Amendment 2 at full assessment: Only R met,v2
+R0428,ABS,Amendment 2 at full assessment: Ester content only; no second dimension,v2
+R0436,ABS,Amendment 2 at full assessment: Only T met; reuse qualitative,v2
+R0480,ABS,Amendment 2 at full assessment: Extraction kinetics only,v2
+R0583,ABS,Amendment 2 at full assessment: Qualitative abstract; no quantified dimension,v2
+R0815,ABS,"Amendment 2 at full assessment: Compliance claim only; glycerol characterised, not valorised",v2
+R0887,ABS,Amendment 2 at full assessment: Qualitative abstract; no quantified dimension,v2
+R0002,FT,Ester feedstock was soybean oil/WCO; diatom residue used only as porous medium (no algal FAME),v1
+R1096,FT,Algal oil source not identified (species unknown); multi-feedstock study,v1
+R1848,FT,Residue-derived catalyst tested only on oleic acid and triolein; no algal lipid conversion,v1
+R0265,ABS,Biodiesel synthesised from babassu oil; algal residue used only as enzyme support,v1
+R0360,ABS,Abstract only: reuse not quantified; insufficient data for two focus dimensions,v1
+R1173,ABS,Residue-derived catalyst tested only on oleic acid esterification,v1
+R1295,ABS,Abstract only: no measured yield value reported,v1
+R1426,ABS,Abstract only: yield and property values not reported,v1
+R1445,ABS,Abstract only: yield value not reported (rate constant 0.0618 min−1 only),v1
+R1612,ABS,Abstract only: microalgal species not identified,v1
