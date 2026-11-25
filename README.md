@@ -27,7 +27,7 @@ The review follows PRISMA 2020. Scopus was searched on 20 October 2026 (1907 rec
   **R** — reuse of the conversion catalyst, enzyme or IL/DES over ≥ 3 cycles with quantified yield or activity;
   **T** — kinetic parameters of the conversion, quantified process energy, or TGA/DSC of the ester product;
   **B** — quantified valorisation of residue, glycerol or a co-product.
-- **Yield types** (never pooled): C1 conversion by GC or NMR; C2 isolated ester mass on oil or lipid; C3 ester content of the product; C4 ester mass on dry biomass; NS method not stated.
+- **Yield types** (never pooled): C1 conversion or yield by GC or NMR (GC ester mass per lipid in g/g is expressed as %); C2 isolated (gravimetric) ester mass on oil or lipid; C3 ester content of the product; C4 ester mass on dry biomass; NS method not stated.
 - **Energy evidence classes**: measured electricity; calculated thermal; nominal power × time; modelled (life cycle or techno-economic).
 
 ## Screening reliability
@@ -46,3 +46,8 @@ Data and figures are released under the Creative Commons Attribution 4.0 Interna
 ## Contact
 
 Dr. Harish H, RK College of Engineering, Vijayawada, India — harish.me27@gmail.com
+
+## Revision history
+
+- R1 (Nov 2026): strict eligibility, 29 included studies, second screening.
+- R2 (Nov 2026): GC-quantified g/g yields reclassified to C1; density compared with EN 14214 only at 15 °C; Full-text list sheet marked as superseded.
